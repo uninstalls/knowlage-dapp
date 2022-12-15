@@ -1,24 +1,23 @@
-# knowlage-dapp
+# Knowlage-dapp (Learn To Earn)
 
-## Project setup
-```
-npm install
-```
+## 队伍信息
+### 队伍/作品名称
+Knowlage
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### ERC20 地址
+0x3264Cf09543C9E713DDE3Fb2A87A9FE9513A0d59
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### 产品简介
+参与者可以发起提案众筹一个精品课件，结束后可获得Token激励和徽章NFT以用于市场投放简历或寻找兼职
 
-### Lints and fixes files
-```
-npm run lint
-```
+#### 产品流程图简介
+![image](https://api.ipfsbrowser.com/ipfs/get.php?hash=QmZBaBExUwr7CoPAXCNgdwiayLqrrzmDYMW5u4SRnYRwWL)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 作品代码仓库
+https://github.com/uninstalls/knowlage-dapp
+
+### 成员
+
+Vitalik
+- 产品/合约/前端/后台
+- 0x3264Cf09543C9E713DDE3Fb2A87A9FE9513A0d59
